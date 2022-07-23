@@ -27,6 +27,7 @@
 
 var videoSource = new Array();
 videoSource[0] = './video/trailer.mp4';
+videoSource[1] = './video/oceans.mp4';
 Addvideo = {key:1, dir:'./video/ad_videos/KFC Rockin Commercial 10 Sec.mp4'};
 let key = 0; // global
 const videoCount = videoSource.length;
